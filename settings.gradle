@@ -1,0 +1,2 @@
+rootProject.name = "ReplayReviewDemo"
+include ':app'

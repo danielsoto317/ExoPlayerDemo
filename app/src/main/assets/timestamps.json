@@ -1,0 +1,19 @@
+{
+  "timestamps": [
+    {
+      "timeInSeconds": 10,
+      "comment": "Test Comment for Timestamp 1",
+      "fromCoach": true
+    },
+    {
+      "timeInSeconds": 30,
+      "comment": "Test Comment for Timestamp 2",
+      "fromCoach": false
+    },
+    {
+      "timeInSeconds": 50,
+      "comment": "Test Comment for Timestamp 3",
+      "fromCoach": false
+    }
+  ]
+}
